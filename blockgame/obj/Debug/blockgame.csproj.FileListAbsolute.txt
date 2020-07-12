@@ -1,0 +1,10 @@
+E:\c#\blockgame\blockgame\obj\Debug\blockgame.csprojAssemblyReference.cache
+E:\c#\blockgame\blockgame\obj\Debug\blockgame.Form1.resources
+E:\c#\blockgame\blockgame\obj\Debug\blockgame.Properties.Resources.resources
+E:\c#\blockgame\blockgame\obj\Debug\blockgame.csproj.GenerateResource.cache
+E:\c#\blockgame\blockgame\obj\Debug\blockgame.csproj.CoreCompileInputs.cache
+E:\c#\blockgame\blockgame\bin\Debug\blockgame.exe.config
+E:\c#\blockgame\blockgame\bin\Debug\blockgame.exe
+E:\c#\blockgame\blockgame\bin\Debug\blockgame.pdb
+E:\c#\blockgame\blockgame\obj\Debug\blockgame.exe
+E:\c#\blockgame\blockgame\obj\Debug\blockgame.pdb
