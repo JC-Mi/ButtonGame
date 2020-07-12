@@ -16,7 +16,9 @@ namespace blockgame
         {
             InitializeComponent();
         }
-        const int N = 4;//按鈕的行列
+
+
+        const int N = 2;//按鈕的行列
         Button[,] buttons = new Button[N,N];//按鈕的陣列
 
 
@@ -160,7 +162,7 @@ namespace blockgame
             {
                 for (int c = 0; c < N; c++)
                 {
-                    if (buttons[r, c].Text != (r * c + N).ToString())
+                    if (buttons[r, c].Text != (r * N + c + 1).ToString())
                     {
                         return false;
                     }
